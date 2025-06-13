@@ -1644,7 +1644,7 @@
   "buffers": [
     {
       "byteLength": 1156948,
-      "uri": "scene.bin"
+      "uri": "scene1.bin"
     }
   ],
   "images": [
@@ -2634,10 +2634,10 @@
       "wrapT": 10497
     }
   ],
-  "scene": 0,
-  "scenes": [
+  "scene1": 0,
+  "scenes1": [
     {
-      "name": "Sketchfab_Scene",
+      "name": "Sketchfab_Scene1",
       "nodes": [
         0
       ]

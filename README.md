@@ -36,7 +36,7 @@ https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone <br />
 
 - ["Apple iPhone 13 Pro Max"](https://skfb.ly/o7nDN) by DatSketch is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/). <br />
 
-- [A15 Chipset Image](https://wccftech.com/a15-bionic-underclocked-cpu-new-gpu-configurations-and-more-details-not-shared/) <br/>
+- [A15 Chipset Image](https://wccftech.com/a15-bionic-underclocked-cpu-new-gpu-configurations-and-more-trailer1-not-shared/) <br/>
 
 - [Apple Logo for loading screen](https://www.iconfinder.com/icons/104447/apple_logo_icon)
 

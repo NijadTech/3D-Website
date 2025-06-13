@@ -1,0 +1,4 @@
+root: C:\cayweb\Apple-iphone-3d-landing-page-starter-Code 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
